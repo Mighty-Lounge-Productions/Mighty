@@ -1,7 +1,3 @@
--- @nuliux
--- @Promise
--- 07/24/2024
-
 local Promise = {}
 Promise.__index = Promise
 
