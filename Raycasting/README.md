@@ -1,15 +1,15 @@
-### RaycastingUtils
+### RaycastingUtil
 
 **Author:** @TheMostWSpinUser
 
 **Description:**
 
-The `RaycastingUtils` module offers utility functions for performing raycasting operations in a 3D environment, such as in a game engine like Roblox. Raycasting is a technique used to detect intersections between a ray (defined by an origin and direction) and objects in the environment. This module simplifies the process of performing raycasts and checking for line-of-sight.
+The `RaycastingUtil` module offers utility functions for performing raycasting operations in a 3D environment, such as in a game engine like Roblox. Raycasting is a technique used to detect intersections between a ray (defined by an origin and direction) and objects in the environment. This module simplifies the process of performing raycasts and checking for line-of-sight.
 
 **Key Functions and Methods:**
 
 1. **RaycastingUtils.new():**
-   - Initializes a new `RaycastingUtils` object.
+   - Initializes a new `RaycastingUtil` object.
 
 2. **RaycastingUtils:Raycast(origin, direction, maxLength, ignoreList):**
    - Performs a raycast from the specified `origin` in the given `direction` up to a maximum length (`maxLength`).
@@ -32,7 +32,3 @@ The `RaycastingUtils` module is useful in scenarios where detecting obstructions
 **Raycasting Parameters:**
 
 The module uses `RaycastParams` to configure the raycasting operation, allowing for customization of filtering and distance. The `FilterDescendantsInstances` property is used to specify objects to ignore, ensuring that the raycast only considers relevant objects.
-
----
-
-This description provides an overview of the `RaycastingUtils` module, highlighting its key features and benefits for developers working with raycasting operations in a 3D environment.
