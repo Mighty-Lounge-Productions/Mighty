@@ -4,7 +4,7 @@
 
 **Description:**
 
-The `VectorUtils` module offers utility functions for performing various operations on 3D vectors in a game environment like Roblox. This module simplifies tasks such as calculating distances, directions, angles, and checking ranges and angles between points in 3D space, making it easier for developers to work with spatial relationships in their games.
+The `VectorUtils` module offers utility functions for performing various operations on 3D vectors in Roblox. This module simplifies tasks such as calculating distances, directions, angles, and checking ranges and angles between points in 3D space, making it easier for developers to work with spatial relationships in their games.
 
 **Key Functions and Methods:**
 
